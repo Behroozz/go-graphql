@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS clean_architecture_golang_ent_gqlgen;
+CREATE DATABASE clean_architecture_golang_ent_gqlgen CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
