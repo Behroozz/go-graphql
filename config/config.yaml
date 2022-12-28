@@ -1,0 +1,14 @@
+database:
+  user: root
+  password: root
+  net: tcp
+  addr: 127.0.0.1:3306
+  dbname: clean_architecture_golang_ent_gqlgen
+  allowNativePasswords: true
+  params:
+    parseTime: true
+    charset: utf8mb4
+    loc: UTC
+
+server:
+  address: 8080
